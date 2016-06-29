@@ -2,5 +2,10 @@ jfkadsfadshfaddj
 adsfjak
 dskafjlksdfjksd
 dskafjadsf
+<<<<<<< HEAD
 
 又在master上加了一行
+=======
+dsjvdsv
+>>>>>>> testing
+都加上算了
