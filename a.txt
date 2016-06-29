@@ -4,8 +4,16 @@ dskafjlksdfjksd
 dskafjadsf
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 又在master上加了一行
 =======
 dsjvdsv
 >>>>>>> testing
 都加上算了
+=======
+dskafjadsf
+
+再加一个分支吧
+
+继续改
+>>>>>>> refs/heads/new-branch
